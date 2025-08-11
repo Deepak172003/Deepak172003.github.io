@@ -24,4 +24,4 @@ Built using HTML, CSS, and JavaScript, the project demonstrates clean UI design,
 
 ---
 
-
+[image]{https://github.com/Deepak172003/Deepak172003.github.io/blob/2325b0390c0aba3f30bd381a16c400b61101a3a2/Screenshot%20(72).png}
